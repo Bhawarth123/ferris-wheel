@@ -1,4 +1,7 @@
 .wheel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border: 2px solid black;
   border-radius: 50%;
   margin-left: 50px;
@@ -97,3 +100,4 @@
     transform: rotate(-360deg);
   }
 }
+
